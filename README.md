@@ -1,0 +1,2 @@
+# Brickwork
+Brickwork algorithm
